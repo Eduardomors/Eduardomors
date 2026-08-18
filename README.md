@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Eduardo%20Moreira%20Silva&fontSize=36&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Eduardo%20Moreira%20Silva&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<br>
 
 ### Estudante de Ciência da Computação na FIAP 🤙
 
@@ -42,7 +44,7 @@ Interesse em desenvolvimento de software e resolução de problemas. Perfil proa
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardofiapbr@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moreira.eduardodudu@gmail.com)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-moreira2306/)
 
